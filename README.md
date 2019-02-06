@@ -1,4 +1,4 @@
-# BlockchainVoting
+# Blockchain based Decentralized Voting
 
 Security of digital voting is always the biggest concern when considering to implement a digitalvoting system. With such monumental decisions at stake, there can be no doubt about the system’s ability to secure data and defend against potential attacks. One way the security issues can be potentially solved is through the technology of blockchains.
 
